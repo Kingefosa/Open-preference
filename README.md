@@ -17,5 +17,5 @@ We aim to build and open platform for preference and choice share in a seamless 
 
 7.0 Websites
 
-[Our Website - http://openperference.org](http://openperference.org)
+[Our Website - http://openpreference.org/](http://openpreference.org/)
 [Github - https://github.com/Kingefosa/Open-preference](https://github.com/Kingefosa/Open-preference)
